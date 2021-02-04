@@ -3,8 +3,13 @@
 # Add steps that build, run tests, deploy, and more:
 # https://aka.ms/yaml
 pr:
-  - main
-
+  branches:
+    include:
+    - master
+  paths:
+    exclude:
+    - wont-trigger
+    
 trigger:
 - main
 
