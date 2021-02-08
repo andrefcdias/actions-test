@@ -1,2 +1,3 @@
+[![Board Status](https://dev.azure.com/gogomes/fb5bfc1c-3952-4316-b38e-99f8d56b7033/e5067199-a026-4096-800e-fa0f60195eb3/_apis/work/boardbadge/180fe51f-754a-4550-810b-aa3c6be2aea7)](https://dev.azure.com/gogomes/fb5bfc1c-3952-4316-b38e-99f8d56b7033/_boards/board/t/e5067199-a026-4096-800e-fa0f60195eb3/Microsoft.RequirementCategory)
 ### Purpose
 This repo serves to test conditional GitHub Status checks based on path to prevent intesnive CI builds when changing stuff like RFCs or docs. 
